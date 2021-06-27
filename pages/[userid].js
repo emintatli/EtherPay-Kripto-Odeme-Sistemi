@@ -53,6 +53,11 @@ export default function UserID(props) {
       else if (data.status==="session_timed_out"){
         clearInterval(timerID);
         SetStatus("timed_out");
+        const request = await fetch("/api/session-creation",{
+          method:"POST",
+          body:JSON.stringify({type:"clear-cookie"})
+        });
+        const data=await request.json();
         localStorage.clear();
       }
     },60*1000);
