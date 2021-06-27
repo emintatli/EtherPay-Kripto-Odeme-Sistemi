@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to EtherPay-Kripto-Odeme-Sistemi 👋</h1>
+<h1 align="center">EtherPay-Kripto-Odeme-Sistemi 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -12,12 +12,14 @@
 
 ## ✨ Youtube DEMO : [Youtube](https://www.youtube.com/watch?v=9b5IKDIbq0I)
 
+<p align="center"><img src="https://i.ibb.co/NCwG9Lp/logo.png" alt="logo" border="0"></p>
+
 # Başlamadan Önce
 Kullanmadan önce api dosyalarının içindedki token,MONGODB ve ETHER_SCAN_API kısımlarını kendi bilgilerinizle değiştirmeniz gerekmektedir.
 Uygulama default olarak <b>Ropsten Test Ağı</b> üzerinde çalışmaktadır.Bunu değiştirmek için Etherscan kısmındaki api url sini Ethereum main network API url si ile değiştirmeniz gereklidir.
 
 
-<p align="center"><img src="https://ether-pay.herokuapp.com/_next/image?url=%2Flogo.png"/></p>
+
 
 ## Özellikler
 *Tarayıcıdan çıkılsa hadi kullanıcı zaman limiti içerisinde oturumunu şifre veya kullanıcı adı girmeden aynı url üzerinden tekrar devam ettirebilmektedir.<br/>
