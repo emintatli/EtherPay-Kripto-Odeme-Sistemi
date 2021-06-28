@@ -29,6 +29,11 @@ Uygulama default olarak <b>Ropsten Test Ağı</b> üzerinde çalışmaktadır.Bu
 
 <p align="center"><img src="https://i.ibb.co/yVp6Jnr/Screenshot-1.png" alt="Screenshot-1" border="0"></p>
 
+### Kullanılan Teknolojiler
+* Oturum kurtarma işlemi için <b>HttpOnly Cookies</b>
+* İşlemlerin kaydı ve kontrolü için <b>MongoDB</b>
+* Ethereum cüzdan oluşturmak için <a href="https://github.com/MyEtherWallet/VanityEth">VanityEth</a>
+* QR kod oluşturmak için <a href="https://github.com/soldair/node-qrcode">QRcode</a>
 <br/>
 ## Install
 
