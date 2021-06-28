@@ -27,6 +27,7 @@ Uygulama default olarak <b>Ropsten Test Ağı</b> üzerinde çalışmaktadır.Bu
 *Her ödeme yapacak kullanıcıya özel bir ethereum cüzdanı oluşturulur ve kullanıcının bu adrese ödeme yapması beklenir.Oluşturulan bu adresler ve kullancı,kullanıcı ödeme bilgileri,cüzdan adresi ve cüzdan private anahtarı mongoDB servisi üzerinde saklanır.Ödemeleri almak için private anahtarları kullanmanız yeterlidir.<br/>
 *Mobil uyglama üzerinden ethereum cüzdanı kullanan kullanıcılar içinse otomatik QR kodu desteği bulunmaktadır.Oluşturulan her cüzdan kullanıcıya hem QR hemde yazı olarak gösterilir.
 
+<p align="center"><img src="https://i.ibb.co/yVp6Jnr/Screenshot-1.png" alt="Screenshot-1" border="0"></p>
 
 <br/>
 ## Install
